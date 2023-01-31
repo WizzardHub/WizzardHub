@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A self-taught passionate developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wizzardhub&label=Profile%20views&color=0e75b6&style=flat" alt="wizzardhub" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wizzardhub&label=Profile%20views&color=0e75b6&style=flat" alt="wizzardhub" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizzardhub&show_icons=true&locale=en&layout=compact" alt="wizzardhub" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wizzardhub&show_icons=true&locale=en" alt="wizzardhub" /></p>
 <br><br><br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
